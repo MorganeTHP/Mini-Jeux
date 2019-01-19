@@ -1,6 +1,6 @@
 # Mini-Jeux OpenClassroom
 
-##Voici un petit jeux sans graphisme et s'executant sur le terminal
+## Voici un petit jeux sans graphisme et s'executant sur le terminal
 
 Vous incarnerez Jean-Michel Paladin et vous devrez battre trois ennemies dans un système de jeux en tours par tours.
 
